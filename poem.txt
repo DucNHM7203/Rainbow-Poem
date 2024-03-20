@@ -6,5 +6,5 @@ ping
 green
 gray
 orange
-yellow
+ynnowee
 unicorn
