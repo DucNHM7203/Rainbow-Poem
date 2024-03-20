@@ -1,0 +1,7 @@
+the Raibow 
+
+red 
+blue
+ping
+green
+gray
