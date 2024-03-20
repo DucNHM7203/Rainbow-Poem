@@ -6,3 +6,4 @@ ping
 green
 gray
 orange
+yellow
